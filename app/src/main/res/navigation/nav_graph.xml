@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/pokemons_fragment"
         android:name="edu.iesam.pokmon.features.presentation.PokemonsFragment"
-        tools:layout="@layout/fragment_pokemons">
+        tools:layout="@layout/view_pokemon_item">
 
         <action
             android:id="@+id/from_pokemons_to_pokemon_detail"
